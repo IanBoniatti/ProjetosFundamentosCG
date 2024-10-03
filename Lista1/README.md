@@ -26,6 +26,9 @@ etc.
 5. Analise o código fonte do projeto Hello Triangle. Localize e relacione os conceitos de shaders, VBOs e VAO apresentados até então. Não precisa entregar nada neste exercício.
 
 
+6. Faça o desenho de um círculo na tela, utilizando a equação paramétrica do círculo para gerar os vértices.
+   O cógigo está em:
 
+   
 Sintaxe básica de gravação e formatação no GitHub:
 https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
